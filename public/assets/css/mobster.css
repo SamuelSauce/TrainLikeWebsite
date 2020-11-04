@@ -6,17 +6,17 @@
  */
 
 :root {
-  --primary: #3D58F3;
-  --secondary: #A52EFF;
-  --success: #0ABF9E;
-  --warning: #E89E09;
-  --info: #4699F8;
-  --danger: #F13057;
-  --indigo: #602FDA;
-  --dark: #383340;
-  --light: #F0EEF5;
-  --gray: #6b6872;
-  --white: #fff;
+  --primary: #000000
+  --secondary: #000000;
+  --success: #000000;
+  --warning: #000000;
+  --info: #000000;
+  --danger: #000000;
+  --indigo: #000000;
+  --dark: #000000;
+  --light: #000000;
+  --gray: #000000;
+  --white: #000;
   --font-family: 'Quicksand', Arial, Helvetica, sans-serif;
   --line-height: 1.7;
 
@@ -26,7 +26,7 @@ body {
   font-family: 'Quicksand', Arial, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1.7;
-  color: #383340;
+  color: #ffffff;
 }
 
 a {
@@ -158,7 +158,7 @@ hr {
 }
 
 .bg-gray {
-  background-color: #6B6872 !important;
+  background-color: #000000 !important;
 }
 
 .bg-dark {
@@ -179,7 +179,7 @@ hr {
 }
 
 .fg-secondary {
-  color: #A52EFF !important;
+  color: #000000 !important;
 }
 
 .fg-success {
@@ -203,11 +203,11 @@ hr {
 }
 
 .fg-dark {
-  color: #383340 !important;
+  color: #000000 !important;
 }
 
 .fg-light {
-  color: #F0EEF5 !important;
+  color: #000000 !important;
 }
 
 .fg-gray {
@@ -2150,7 +2150,7 @@ hr {
 .page-section:not(.fg-white) h1,
 .page-section:not(.fg-white) h2,
 .page-section:not(.fg-white) h3 {
-  color: #6b6872;
+  color: #ffffff;
 }
 
 
